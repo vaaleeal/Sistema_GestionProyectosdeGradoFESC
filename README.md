@@ -29,16 +29,6 @@ Modelar un sistema institucional que permita gestionar de forma eficiente y cont
 - Calificación y consolidación de notas  
 - Archivo final del proyecto  
 
----
 
-##  Herramientas Utilizadas
-
-- **UML 2.0**
-- **draw.io / diagrams.net**
-- **Mermaid**
-- **PlantUML (versión inicial)**
-- **PDF para documentación final**
-
----
 
 
